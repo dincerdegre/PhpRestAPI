@@ -1,0 +1,17 @@
+{
+    "name": "dince/eater-bot",
+    "autoload": {
+        "psr-4": {
+            "Dince\\EaterBot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dincerdegre",
+            "email": "dincerdegre@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}

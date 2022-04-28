@@ -1,0 +1,4 @@
+# dependency directories
+vendor/
+# dotenv
+.env
