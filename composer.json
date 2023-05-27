@@ -1,14 +1,14 @@
 {
-    "name": "dince/eater-bot",
+    "name": "degre/basic-rest",
     "autoload": {
         "psr-4": {
-            "Dince\\EaterBot\\": "src/"
+            "Degre\\BasicRest\\": "src/"
         }
     },
     "authors": [
         {
             "name": "dincerdegre",
-            "email": "dincerdegre@gmail.com"
+            "email": "info@dincerdegre.com"
         }
     ],
     "require": {
